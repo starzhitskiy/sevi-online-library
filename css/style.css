@@ -251,13 +251,14 @@ span{
 }
 @media screen and (min-width:1024px){
 	.ba-col-3{
-		width: 33.33%;
+		width: 25%;
 	}
 }
 @media screen and (max-width:640px){
 	.ba-col-3{
 		width: 100%;
 	}
+}
 .ba-our-cat{
 	display: block;
 	text-align: center;
@@ -265,11 +266,11 @@ span{
 	max-width: 285px;
 	margin: 0 auto;
 }
-@media screen and (min-width:1024px){
+/* @media screen and (min-width:1024px){
 	.ba-our-cat{
 		margin-bottom: 140px;
 	}
-}
+} */
 
 .ba-job-cat__title{
 	font: 700 31px/1.5 'nunito Sans', sans-serif;
